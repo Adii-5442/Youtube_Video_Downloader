@@ -10,6 +10,9 @@ root.geometry('500x300')
 root.resizable(0,0)
 root.title("Youtube Video Downloader")
 root.configure(bg='black')
+print('''\U0001f600 \U0001f600 Welcome to the Youtube Vodeo downloader program
+        * Copy the link of any youtube video by clicking on share button and paste it in the GUI
+        * Enjoy \U0001f600 \U0001f600''')
 
 Label(root,text="YOUTUBE VIDEO DOWNLOADER",bg='black',fg="cyan",font='arial 15 bold').pack()
 
