@@ -13,4 +13,4 @@
  
  Additional features and updates will be added soon
  
-                                                                                                                      **By DARKFIRE**
+                                                              **By DARKFIRE**
